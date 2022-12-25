@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWithMe-FPT&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=moonlight)
 
 ![](https://komarev.com/ghpvc/?username=CodeWithMe-FPT&color=green)
 
