@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWithMe-FPT&theme=dracula)
-![](https://raw.githubusercontent.com/username/github-stats/CodeWithMe-FPT/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/CodeWithMe-FPT/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 
