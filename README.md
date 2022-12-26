@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hi there, I am Manh a Full Stack Developer 👋
 
 
-**CodeWithMe-FPT/CodeWithMe-FPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CodeWithMe-FPT/CodeWithMe-FPT**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on NodeJS + TypeScript & ReactJS Projects
+- 🌱 I’m currently learning NodeJS + TypeScrip
+- 👯 I’m looking to collaborate on NodeJS + TypeScript & ReactJS Projects
+- 🤔 I’m looking for Job opportunity.
+- 💬 Ask me about anything
+- 📫 How to reach me: xacca345@gmail.com
+- 😄 Pronouns: Him/They/Them
+- ⚡ Fun fact: I also want to be a singer 🤭
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWithMe-FPT&theme=dracula)
