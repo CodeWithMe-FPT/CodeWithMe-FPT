@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NodeJS + TypeScript & ReactJS Projects
-- 🌱 I’m currently learning NodeJS + TypeScrip
+- 🌱 I’m currently learning NodeJS + TypeScript
 - 👯 I’m looking to collaborate on NodeJS + TypeScript & ReactJS Projects
 - 🤔 I’m looking for Job opportunity.
 - 💬 Ask me about anything
